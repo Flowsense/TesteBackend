@@ -17,7 +17,7 @@ Extras que seria legal ver:
 
 Sinta-se à vontade para instalar e usar quaisquer bibliotecas de suporte que desejar.
 
-# DISCLAIMER: Estamos avaliando skills. Um ponto importante de trabalhar em time é poder buscar ajuda mútua. Se não souber fazer algo e/ou achar muito comprido, deixar indicado o que está faltando, "simulando" como outras pessoas no time poderiam eventualmente te ajudar.
+## DISCLAIMER: Estamos avaliando skills. Um ponto importante de trabalhar em time é poder buscar ajuda mútua. Se não souber fazer algo e/ou achar muito comprido, deixar indicado o que está faltando, "simulando" como outras pessoas no time poderiam eventualmente te ajudar.
 
 
 ## 1) Listar filmes OMDb
