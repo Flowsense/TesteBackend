@@ -22,8 +22,7 @@ Sinta-se à vontade para instalar e usar quaisquer bibliotecas de suporte que de
 
 ## 1) Listar filmes OMDb
 Quando o usuário abrir a url raíz (Ex: localhost:8000/), mostrar uma lista de filmes com a imagem do cartaz, título do filme e gênero. A lista de filmes deve ser obtida de uma API REST pública da OMDb.
-A lista de resultados deve ser enxuta, queremos avaliar o uso  axios para
-requisições HTTP, portanto não estamos preocupados com um site que mostre muitos resultados de busca.
+A lista de resultados deve ser enxuta, queremos avaliar requisições HTTP, portanto não estamos preocupados com um site que mostre muitos resultados de busca.
 
 ### Pontos extras: Permitir aplicar um filtro de gênero à busca
 
