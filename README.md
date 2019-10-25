@@ -5,6 +5,9 @@ Olá,
 este é um teste para avaliarmos os diferentes skills para dev backend e a capacidade de usar Python e Django. 
 Há uma parte em que é necessário mostrar uma página web, mas o front pode ser bem simples, usando html simples e o próprio Django Template Language. Assim, não é necessário se preocupar com um design bonito, SPAs e afins. Vamos avaliar a organização do código/componentes e aplicação da lógica de programação.
 
+Como entregar:
+- Colocar o projeto em um repositório git público e compartilhar o link
+
 Requisitos técnicos:
 - Utilizar Django
 - Utilizar a biblioteca requests para acessar a API indicada
